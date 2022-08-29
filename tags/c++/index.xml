@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>C&#43;&#43; on Thomas Fike</title>
-    <link>/tags/c&#43;&#43;/</link>
+    <link>https://ThomasFike.com/tags/c&#43;&#43;/</link>
     <description>Recent content in C&#43;&#43; on Thomas Fike</description>
     <image>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ThomasFike.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ThomasFike.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="https://ThomasFike.com/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to be Awesome</title>
-      <link>/posts/home/</link>
+      <link>https://ThomasFike.com/posts/home/</link>
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
-      <guid>/posts/home/</guid>
+      <guid>https://ThomasFike.com/posts/home/</guid>
       <description>New Post about a thing or something Cool stuff int main() { std::string apple = &amp;#34;cool&amp;#34;; } cd ~ ls -la Diagrams gitGraph commit commit branch foo checkout foo commit commit checkout main commit merge foo commit tag: &#34;v1.0.0&#34; gitGraph commit commit branch foo checkout foo commit commit checkout main commit merge foo commit tag: &#34;v1.0.0&#34; </description>
     </item>
     
