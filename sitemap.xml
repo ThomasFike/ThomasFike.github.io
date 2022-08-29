@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ThomasFike.com/tags/c&#43;&#43;/</loc>
-    <lastmod>2019-03-26T08:47:11+01:00</lastmod>
-  </url><url>
-    <loc>https://ThomasFike.com/posts/home/</loc>
-    <lastmod>2019-03-26T08:47:11+01:00</lastmod>
-  </url><url>
-    <loc>https://ThomasFike.com/posts/</loc>
-    <lastmod>2019-03-26T08:47:11+01:00</lastmod>
-  </url><url>
-    <loc>https://ThomasFike.com/tags/</loc>
-    <lastmod>2019-03-26T08:47:11+01:00</lastmod>
-  </url><url>
-    <loc>https://ThomasFike.com/</loc>
-    <lastmod>2019-03-26T08:47:11+01:00</lastmod>
-  </url><url>
     <loc>https://ThomasFike.com/about/</loc>
   </url><url>
     <loc>https://ThomasFike.com/categories/</loc>
@@ -24,5 +9,9 @@
     <loc>https://ThomasFike.com/projects/gerrit-tools/</loc>
   </url><url>
     <loc>https://ThomasFike.com/projects/</loc>
+  </url><url>
+    <loc>https://ThomasFike.com/tags/</loc>
+  </url><url>
+    <loc>https://ThomasFike.com/</loc>
   </url>
 </urlset>
