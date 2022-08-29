@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: thomasfike.com/sitemap.xml

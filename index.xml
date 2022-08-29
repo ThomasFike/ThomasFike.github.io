@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thomas Fike</title>
+    <link>thomasfike.com/</link>
+    <description>Recent content on Thomas Fike</description>
+    <image>
+      <url>thomasfike.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>thomasfike.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="thomasfike.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to be Awesome</title>
+      <link>thomasfike.com/posts/home/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>thomasfike.com/posts/home/</guid>
+      <description>New Post about a thing or something Cool stuff int main() { std::string apple = &amp;#34;cool&amp;#34;; } cd ~ ls -la Diagrams gitGraph commit commit branch foo checkout foo commit commit checkout main commit merge foo commit tag: &#34;v1.0.0&#34; gitGraph commit commit branch foo checkout foo commit commit checkout main commit merge foo commit tag: &#34;v1.0.0&#34; </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>thomasfike.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>thomasfike.com/about/</guid>
+      <description>High School Years In high school I was involved in the arts relatively heavily. I started singing in choirs as young as I can remember and this was no different in high school. For 3 of my 4 years I was a member of my schools top choral group. As a member of the group I was able to go on tour and to competitions. I was also involved in drama but not on stage.</description>
+    </item>
+    
+    <item>
+      <title>Gerrit Tools</title>
+      <link>thomasfike.com/projects/gerrit-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>thomasfike.com/projects/gerrit-tools/</guid>
+      <description>Gerrit Tools is a Visual Studio Code extension that I made to make using the Gerrit Code Review tool in VS Code. One of the hardest part about using Gerrit with VS Code is that there is no built in mechanism for pushing in the way you have to push to gerrit. This is because instead of just being able to do git push origin main you have to do git push origin HEAD:refs/for/main.</description>
+    </item>
+    
+  </channel>
+</rss>

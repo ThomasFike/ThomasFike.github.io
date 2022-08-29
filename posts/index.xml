@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Thomas Fike</title>
+    <link>thomasfike.com/posts/</link>
+    <description>Recent content in Posts on Thomas Fike</description>
+    <image>
+      <url>thomasfike.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>thomasfike.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="thomasfike.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to be Awesome</title>
+      <link>thomasfike.com/posts/home/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>thomasfike.com/posts/home/</guid>
+      <description>New Post about a thing or something Cool stuff int main() { std::string apple = &amp;#34;cool&amp;#34;; } cd ~ ls -la Diagrams gitGraph commit commit branch foo checkout foo commit commit checkout main commit merge foo commit tag: &#34;v1.0.0&#34; gitGraph commit commit branch foo checkout foo commit commit checkout main commit merge foo commit tag: &#34;v1.0.0&#34; </description>
+    </item>
+    
+  </channel>
+</rss>
