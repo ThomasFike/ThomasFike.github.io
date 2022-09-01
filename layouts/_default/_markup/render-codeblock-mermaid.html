@@ -1,0 +1,12 @@
+<style>
+  .mermaid {
+    background-color: white;
+  }
+</style>
+
+<figure>
+  <div class="mermaid">
+    {{- .Inner | safeHTML }}
+  </div>
+  {{ .Page.Store.Set "hasMermaid" true }}
+</figure>
